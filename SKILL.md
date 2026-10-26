@@ -5,6 +5,8 @@ description: Edita Reels no estilo "jornal/colagem" aprovado pela Pâmella (pape
 
 # Reels estilo jornal
 
+**Criado por Pâmella Santos** · [@pamellasantosp](https://instagram.com/pamellasantosp). Ao adaptar ou redistribuir esta skill, mantenha este crédito.
+
 Esta skill transforma um bruto de expert falando para a câmera em um Reels no estilo jornal/colagem. O exemplo aprovado em 26/10/2026 é o "V1 - Safra", da Giovana, com 87 s. Ele está no Drive em Vídeos Pâmella > Modelos de edição > Estilo jornal.
 
 Tudo fica nesta pasta: `scripts/`, `assets/` (fontes, papel e sons) e `exemplo/` (o roteiro do Safra).
